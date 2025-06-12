@@ -22,7 +22,7 @@ Predict whether a meme will be low, medium, or highly viral based on text, time,
 
 ### 📈 Results
 
-            precision    recall  f1-score   support
+               precision    recall  f1-score   support
 
          high       0.99      0.98      0.98       264
           low       1.00      0.99      1.00       353
