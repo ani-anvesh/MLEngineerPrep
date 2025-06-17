@@ -53,3 +53,33 @@ A simple CNN to classify images of cats and dogs.
 - The model is slightly better at detecting dogs than cats.
 - ROC AUC of 0.58 indicates weak but better-than-random performance.
 - Accuracy is low, suggesting more training or better augmentation/regularization is needed.
+
+---
+
+## ✅ Testing
+
+This project includes unit tests for key modules like `evaluation.py` and `data_pipeline.py`.
+
+### 📂 Test Structure
+Tests are located in the `/tests` directory and cover:
+- Metric evaluation logic (accuracy, precision, recall, F1)
+- Data loading
+- Edge cases (imbalanced data, invalid input, perfect/zero predictions)
+
+### 🚀 Run Tests
+
+1. Navigate to the project root:
+
+```bash
+cd path/to/anime-character-classifier```
+
+2. run command:
+
+```bash 
+pytest```
+
+2. run command:
+
+```bash 
+PYTHONPATH=. pytest```
+
