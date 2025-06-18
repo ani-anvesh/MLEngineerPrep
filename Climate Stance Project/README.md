@@ -102,6 +102,6 @@ Custom evaluation utilities are modularized in [`src/evaluation.py`](src/evaluat
 ## Run all tests
 pytest
 
-# Or with module path setup
+### Or with module path setup
 PYTHONPATH=. pytest
 
