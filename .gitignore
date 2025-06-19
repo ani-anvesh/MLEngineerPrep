@@ -1,0 +1,61 @@
+# macOS system files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pip/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.pytest_cache
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and debug files
+*.log
+
+# Test output
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+test-results/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# dotenv
+.env
+.env.*
+
+# SQLite database
+*.sqlite3
+db.sqlite3
+
+# CSV or data outputs (if generated)
+*.csv
+*.tsv
+*.json
