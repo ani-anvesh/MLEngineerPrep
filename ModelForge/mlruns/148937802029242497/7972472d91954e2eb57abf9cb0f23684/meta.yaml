@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anveshradharapu/Documents/Project_Space/ML%20Engineer/MLEngineerPrep/ModelForge/mlruns/148937802029242497/7972472d91954e2eb57abf9cb0f23684/artifacts
+end_time: 1750436737483
+entry_point_name: ''
+experiment_id: '148937802029242497'
+lifecycle_stage: active
+run_id: 7972472d91954e2eb57abf9cb0f23684
+run_name: casual-bird-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436733849
+status: 3
+tags: []
+user_id: anveshradharapu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anveshradharapu/Documents/Project_Space/ML%20Engineer/MLEngineerPrep/ModelForge/mlruns/148937802029242497/91191bc98d974c42a9a94a9f0ae18dd5/artifacts
+end_time: 1750437073776
+entry_point_name: ''
+experiment_id: '148937802029242497'
+lifecycle_stage: active
+run_id: 91191bc98d974c42a9a94a9f0ae18dd5
+run_name: treasured-sheep-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750437070185
+status: 3
+tags: []
+user_id: anveshradharapu

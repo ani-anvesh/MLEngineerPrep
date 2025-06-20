@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anveshradharapu/Documents/Project_Space/ML%20Engineer/MLEngineerPrep/ModelForge/mlruns/148937802029242497/f04b2be6313c49a78642bd6521f58062/artifacts
+end_time: 1750436555706
+entry_point_name: ''
+experiment_id: '148937802029242497'
+lifecycle_stage: active
+run_id: f04b2be6313c49a78642bd6521f58062
+run_name: sedate-pig-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436551866
+status: 3
+tags: []
+user_id: anveshradharapu

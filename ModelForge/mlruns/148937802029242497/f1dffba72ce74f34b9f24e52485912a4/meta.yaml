@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anveshradharapu/Documents/Project_Space/ML%20Engineer/MLEngineerPrep/ModelForge/mlruns/148937802029242497/f1dffba72ce74f34b9f24e52485912a4/artifacts
+end_time: 1750436378560
+entry_point_name: ''
+experiment_id: '148937802029242497'
+lifecycle_stage: active
+run_id: f1dffba72ce74f34b9f24e52485912a4
+run_name: thundering-cod-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436378548
+status: 4
+tags: []
+user_id: anveshradharapu

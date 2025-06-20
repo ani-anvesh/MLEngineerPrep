@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anveshradharapu/Documents/Project_Space/ML%20Engineer/MLEngineerPrep/ModelForge/mlruns/148937802029242497/6a31d593b0234d7584c20fb177259f9f/artifacts
+end_time: 1750436443069
+entry_point_name: ''
+experiment_id: '148937802029242497'
+lifecycle_stage: active
+run_id: 6a31d593b0234d7584c20fb177259f9f
+run_name: bald-seal-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436439354
+status: 4
+tags: []
+user_id: anveshradharapu

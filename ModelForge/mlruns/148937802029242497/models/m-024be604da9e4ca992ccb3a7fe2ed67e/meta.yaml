@@ -1,0 +1,10 @@
+artifact_location: file:///Users/anveshradharapu/Documents/Project_Space/ML%20Engineer/MLEngineerPrep/ModelForge/mlruns/148937802029242497/models/m-024be604da9e4ca992ccb3a7fe2ed67e/artifacts
+creation_timestamp: 1750436735940
+experiment_id: '148937802029242497'
+last_updated_timestamp: 1750436737477
+model_id: m-024be604da9e4ca992ccb3a7fe2ed67e
+model_type: null
+name: model
+source_run_id: 7972472d91954e2eb57abf9cb0f23684
+status: 2
+status_message: null
