@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents a 14-day hands-on sprint to complete the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and build practical ML engineering skills. It integrates theory, coding, software engineering, projects, data structures, and career preparation.
+This repository documents a 14-day hands-on sprint to complete the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and build practical ML engineering skills. It integrates theory, coding, software engineering, projects
 
 ---
 
@@ -49,15 +49,6 @@ This repository documents a 14-day hands-on sprint to complete the [Machine Lear
 - **ML Frameworks**: TensorFlow, Keras, scikit-learn, OpenAI API
 - **Deployment**: Flask, Docker, FastAPI, Streamlit
 - **Version Control**: Git, GitHub
-
----
-
-## Career Development Highlights
-
-- Drafted and updated resume with project experience
-- Created and optimized LinkedIn profile
-- Conducted mock interviews and applied to real job listings
-- Built a personal portfolio site to showcase work
 
 ---
 
