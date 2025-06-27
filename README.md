@@ -40,8 +40,6 @@ This repository documents a 14-day hands-on sprint to complete the [Machine Lear
 - **Mental Health Journal Analyzer** — Sentiment prediction via Q-learning.
 - **Smart City Traffic Predictor** — CNN with TensorFlow and congestion datasets.
 - **YouTube Video Performance Predictor** — Flask API for inference.
-- **AI Resume Tuner** — Resume enhancer with Docker + OpenAI.
-- **Resume Tweaker + Portfolio** — Final capstone deployed via Streamlit.
 
 ---
 
