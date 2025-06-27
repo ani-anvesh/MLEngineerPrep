@@ -8,22 +8,22 @@ This repository documents a 14-day hands-on sprint to complete the [Machine Lear
 
 ## Day-by-Day Breakdown
 
-| Day | Project                             | ML Focus                                        | SE Focus                 | DSA               | Career                |
-| --- | ----------------------------------- | ----------------------------------------------- | ------------------------ | ----------------- | --------------------- |
-| 1   | 🎵 Music Mood Predictor             | Linear Regression, Cost Function                | Git, Virtualenv          | Arrays & Strings  | Draft Resume          |
-| 2   | 📈 Meme Virality Predictor          | Multiple Linear Regression, Polynomial Features | Preprocessing Pipeline   | Linked Lists      | Create LinkedIn       |
-| 3   | 🎭 Anime Character Classifier       | Logistic Regression                             | Model Evaluation Metrics | Stacks & Queues   | Resume Update         |
-| 4   | 🐶 Pet Breed Classifier (Tiny CNN)  | Neural Networks, Activations                    | NN from Scratch          | Trees             | Update LinkedIn       |
-| 5   | 🌍 Climate Change Tweet Classifier  | Decision Trees, Ensemble Models                 | scikit-learn Ensemble    | Binary Trees      | Job Portals           |
-| 6   | 🗺️ Tourist Recommender              | Cross-validation, Hyperparameter Tuning         | Model Selection Pipeline | Hash Tables       | Apply to Jobs         |
-| 7   | 🧑‍🍳 Recipe Similarity Engine         | K-Means, PCA                                    | Clustering Visualization | Recursion         | LinkedIn Networking   |
-| 8   | 🎨 Art Style Classifier             | Anomaly Detection, Recommender Systems          | Collaborative Filtering  | Sorting           | Resume Update         |
-| 9   | 🧠 Mental Health Sentiment Analyzer | Reinforcement Learning, MDPs                    | Q-learning Algorithm     | Graphs            | Apply to Jobs         |
-| 10  | 🏙️ Traffic Congestion Predictor     | TensorFlow, CNNs                                | Train & Save CNN         | DP                | Interview Prep        |
-| 11  | 🎬 YouTube Performance Predictor    | Deployment, REST APIs                           | Flask API                | Greedy Algorithms | Mock Interviews       |
-| 12  | 🤖 AI Resume Tuner                  | Docker, Cloud Deployment                        | Dockerfile, Cloud Deploy | Backtracking      | Networking            |
-| 13  | 🌐 Resume Tweaker + Portfolio       | NLP, OpenAI API                                 | Streamlit + OpenAI       | LeetCode Practice | Tailor Resume         |
-| 14  | 🌐 Final Portfolio Deployment       | Full Review                                     | Website, Final Touches   | Review Weak Areas | Finalize Applications |
+| Day | Project                             | ML Focus                                        | SE Focus                 |
+| --- | ----------------------------------- | ----------------------------------------------- | ------------------------ |
+| 1   | 🎵 Music Mood Predictor             | Linear Regression, Cost Function                | Git, Virtualenv          |
+| 2   | 📈 Meme Virality Predictor          | Multiple Linear Regression, Polynomial Features | Preprocessing Pipeline   |
+| 3   | 🎭 Anime Character Classifier       | Logistic Regression                             | Model Evaluation Metrics |
+| 4   | 🐶 Pet Breed Classifier (Tiny CNN)  | Neural Networks, Activations                    | NN from Scratch          |
+| 5   | 🌍 Climate Change Tweet Classifier  | Decision Trees, Ensemble Models                 | scikit-learn Ensemble    |
+| 6   | 🗺️ Tourist Recommender              | Cross-validation, Hyperparameter Tuning         | Model Selection Pipeline |
+| 7   | 🧑‍🍳 Recipe Similarity Engine         | K-Means, PCA                                    | Clustering Visualization |
+| 8   | 🎨 Art Style Classifier             | Anomaly Detection, Recommender Systems          | Collaborative Filtering  |
+| 9   | 🧠 Mental Health Sentiment Analyzer | Reinforcement Learning, MDPs                    | Q-learning Algorithm     |
+| 10  | 🏙️ Traffic Congestion Predictor     | TensorFlow, CNNs                                | Train & Save CNN         |
+| 11  | 🎬 YouTube Performance Predictor    | Deployment, REST APIs                           | Flask API                |
+| 12  | 🤖 AI Resume Tuner                  | Docker, Cloud Deployment                        | Dockerfile, Cloud Deploy |
+| 13  | 🌐 Resume Tweaker + Portfolio       | NLP, OpenAI API                                 | Streamlit + OpenAI       |
+| 14  | 🌐 Final Portfolio Deployment       | Full Review                                     | Website, Final Touches   |
 
 ---
 
