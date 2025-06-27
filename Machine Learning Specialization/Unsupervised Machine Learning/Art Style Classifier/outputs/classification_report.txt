@@ -1,0 +1,58 @@
+Accuracy: 0.0000
+
+                           precision    recall  f1-score   support
+
+         Albrecht_Du╠êrer       0.00      0.00      0.00       1.0
+            Alfred_Sisley       0.00      0.00      0.00       1.0
+        Amedeo_Modigliani       0.00      0.00      0.00       1.0
+            Andrei_Rublev       0.00      0.00      0.00       1.0
+              Andy_Warhol       0.00      0.00      0.00       1.0
+         Camille_Pissarro       0.00      0.00      0.00       1.0
+               Caravaggio       0.00      0.00      0.00       1.0
+             Claude_Monet       0.00      0.00      0.00       1.0
+             Diego_Rivera       0.00      0.00      0.00       1.0
+          Diego_Velazquez       0.00      0.00      0.00       1.0
+              Edgar_Degas       0.00      0.00      0.00       1.0
+            Edouard_Manet       0.00      0.00      0.00       1.0
+             Edvard_Munch       0.00      0.00      0.00       1.0
+                 El_Greco       0.00      0.00      0.00       1.0
+         Eugene_Delacroix       0.00      0.00      0.00       1.0
+           Francisco_Goya       0.00      0.00      0.00       1.0
+              Frida_Kahlo       0.00      0.00      0.00       1.0
+           Georges_Seurat       0.00      0.00      0.00       1.0
+        Giotto_di_Bondone       0.00      0.00      0.00       1.0
+             Gustav_Klimt       0.00      0.00      0.00       1.0
+          Gustave_Courbet       0.00      0.00      0.00       1.0
+            Henri_Matisse       0.00      0.00      0.00       1.0
+           Henri_Rousseau       0.00      0.00      0.00       1.0
+Henri_de_Toulouse-Lautrec       0.00      0.00      0.00       1.0
+         Hieronymus_Bosch       0.00      0.00      0.00       1.0
+          Jackson_Pollock       0.00      0.00      0.00       1.0
+             Jan_van_Eyck       0.00      0.00      0.00       1.0
+                Joan_Miro       0.00      0.00      0.00       1.0
+         Kazimir_Malevich       0.00      0.00      0.00       1.0
+        Leonardo_da_Vinci       0.00      0.00      0.00       1.0
+             Marc_Chagall       0.00      0.00      0.00       1.0
+             Michelangelo       0.00      0.00      0.00       1.0
+           Mikhail_Vrubel       0.00      0.00      0.00       1.0
+            Pablo_Picasso       0.00      0.00      0.00       1.0
+             Paul_Cezanne       0.00      0.00      0.00       1.0
+             Paul_Gauguin       0.00      0.00      0.00       1.0
+                Paul_Klee       0.00      0.00      0.00       1.0
+        Peter_Paul_Rubens       0.00      0.00      0.00       1.0
+    Pierre-Auguste_Renoir       0.00      0.00      0.00       1.0
+            Piet_Mondrian       0.00      0.00      0.00       1.0
+           Pieter_Bruegel       0.00      0.00      0.00       1.0
+                  Raphael       0.00      0.00      0.00       1.0
+                Rembrandt       0.00      0.00      0.00       1.0
+            Rene_Magritte       0.00      0.00      0.00       1.0
+            Salvador_Dali       0.00      0.00      0.00       1.0
+        Sandro_Botticelli       0.00      0.00      0.00       1.0
+                   Titian       0.00      0.00      0.00       1.0
+       Vasiliy_Kandinskiy       0.00      0.00      0.00       1.0
+         Vincent_van_Gogh       0.00      0.00      0.00       1.0
+           William_Turner       0.00      0.00      0.00       1.0
+
+                 accuracy                           0.00      50.0
+                macro avg       0.00      0.00      0.00      50.0
+             weighted avg       0.00      0.00      0.00      50.0
