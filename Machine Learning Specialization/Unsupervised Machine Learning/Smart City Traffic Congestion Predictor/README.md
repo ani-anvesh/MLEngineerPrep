@@ -6,21 +6,23 @@ This project builds and trains deep learning models to predict traffic congestio
 
 ## Project Structure
 
-project/
-├── data/ # Raw and processed datasets (METR-LA, PEMS-BAY)
-│ ├── METR-LA/
-│ └── PEMS-BAY/
-├── models/ # Trained model weights and saved models
-├── notebooks/ # Jupyter notebooks for experiments and EDA
-│ └── smart_city_traffic_congestion_predictor.ipynb
-├── outputs/ # Evaluation results, plots, and reports
-├── src/ # Source code (data processing, training, evaluation)
-│ ├── data_pipeline.py
-│ └── evaluation.py
-├── tests/ # Unit and integration tests
-│ └── test_evaluation.py
-├── README.md # This file
-└── requirements.txt # Python dependencies
+```
+  project/
+  ├── data/ # Raw and processed datasets (METR-LA, PEMS-BAY)
+  │ ├── METR-LA/
+  │ └── PEMS-BAY/
+  ├── models/ # Trained model weights and saved models
+  ├── notebooks/ # Jupyter notebooks for experiments and EDA
+  │ └── smart_city_traffic_congestion_predictor.ipynb
+  ├── outputs/ # Evaluation results, plots, and reports
+  ├── src/ # Source code (data processing, training, evaluation)
+  │ ├── data_pipeline.py
+  │ └── evaluation.py
+  ├── tests/ # Unit and integration tests
+  │ └── test_evaluation.py
+  ├── README.md # This file
+  └── requirements.txt # Python dependencies
+```
 
 ---
 
