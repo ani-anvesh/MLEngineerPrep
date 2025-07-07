@@ -1,0 +1,3 @@
+litellm_settings:
+  custom_provider_map:
+    - { "provider": "custom_gemma_local", "custom_handler": my_custom_llm }
