@@ -122,7 +122,6 @@ dependencies = [
     "webencodings (==0.5.1)",
     "websocket-client (==1.8.0)",
     "wheel (==0.45.1)",
-    "tensorflow (<2.15)",
     "surprise (>=0.1,<0.2)",
     "scikit-surprise (>=1.1.4,<2.0.0)",
     "gym (>=0.26.2,<0.27.0)",
@@ -131,7 +130,10 @@ dependencies = [
     "flask (>=3.1.1,<4.0.0)",
     "notebook (>=7.4.3,<8.0.0)",
     "xgboost (>=3.0.2,<4.0.0)",
-    "litellm (>=1.74.0,<2.0.0)"
+    "litellm (>=1.74.0,<2.0.0)",
+    "opencv-python (==4.7.0.72)",
+    "tensorflow-macos (>=2.16.2,<3.0.0)",
+    "tensorflow-metal (>=1.2.0,<2.0.0)",
 ]
 
 
